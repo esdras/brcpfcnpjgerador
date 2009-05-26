@@ -1,0 +1,11 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/brcpfcnpjgerador.rb
+script/console
+script/destroy
+script/generate
+test/test_brcpfcnpjgerador.rb
+test/test_helper.rb
